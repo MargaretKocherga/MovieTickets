@@ -1,6 +1,6 @@
 # MovieTickets
 
-**MovieTickets** is an application for cinema operator to create, edit, delete seances and to buy movie tickets for the selected date. It was created as a university project in QTCreator in C++.
+**MovieTickets** is an application for cinema operator to create, edit, delete seances and also to buy movie tickets for the selected date. It was created as a university project in QTCreator in C++.
 
 ## Running MovieTickets
 
